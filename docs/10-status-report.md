@@ -15,7 +15,7 @@
 
 ## Sample report (illustrative, replace with real figures)
 
-**Report period:** Week 6 [TEAM TO CONFIRM dates and figures]
+**Report period:** Week 6 (planned mid-project checkpoint). Dates and figures are pending the team's actual results.
 **Overall status:** Amber
 
 **Progress:** Authentication completed and reviewed. Task creation and assignment built; task completion in progress.
@@ -31,4 +31,4 @@
 
 **Decisions needed:** none this week.
 
-**Metrics:** [TEAM TO CONFIRM] stories completed vs planned, open defects by severity.
+**Metrics:** stories completed vs planned and open defects by severity. Pending the team's actual results.

@@ -14,7 +14,7 @@
 
 **Expected benefits:** one place for tasks, documents and content; less HR admin; visible progress; consistent experience for every hire.
 
-**Costs:** team time only. Tooling limited to free tiers (Jira, Google Workspace, Google Stitch, free hosting) [TEAM TO CONFIRM actual tools used].
+**Costs:** team time only. Tooling limited to free tiers (Jira, Google Workspace, Google Stitch, free hosting).
 
 ## 2. Stakeholder register
 

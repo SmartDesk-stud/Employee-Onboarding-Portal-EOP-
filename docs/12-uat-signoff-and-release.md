@@ -4,11 +4,11 @@
 
 | Field | Detail |
 |---|---|
-| UAT period | Week 9 [TEAM TO CONFIRM dates] |
+| UAT period | Week 9 (planned). Actual dates pending |
 | Participants | Francisca Pokuaa Boateng (product owner), Precious (QA), sample users |
-| Test cases executed | [TEAM TO CONFIRM] of 12 |
-| Passed / Failed | [TEAM TO CONFIRM] |
-| Open defects at exit | Critical: 0, High: 0 [TEAM TO CONFIRM] |
+| Test cases executed | Pending (12 planned) |
+| Passed / Failed | Pending |
+| Open defects at exit | Target: Critical 0, High 0. Actual pending |
 
 ## 2. Acceptance decision
 

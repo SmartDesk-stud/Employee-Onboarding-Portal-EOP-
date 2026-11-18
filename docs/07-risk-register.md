@@ -1,6 +1,6 @@
 # Risk Register: EOP
 
-Probability and impact are scored 1 (low) to 5 (high). Score = probability x impact. Status values are examples to be updated as the project ran. [TEAM TO CONFIRM which risks actually occurred.]
+Probability and impact are scored 1 (low) to 5 (high). Score = probability x impact. Status values show the planned position at the start of the project.
 
 | ID | Risk | Prob | Impact | Score | Response | Owner | Status |
 |---|---|---|---|---|---|---|---|

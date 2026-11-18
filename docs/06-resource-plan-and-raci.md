@@ -8,9 +8,9 @@
 | Francisca Pokuaa Boateng | Product owner | Backlog, priorities, acceptance |
 | Olabisi | Development lead | Architecture, build, code review |
 | Precious | QA | Test plan, test execution, defect tracking |
-| Vasongi Adeline | Team member | [TEAM TO CONFIRM assigned area] |
-| Chidinma Duru | Team member | [TEAM TO CONFIRM assigned area] |
-| Smith Labisi | Team member | [TEAM TO CONFIRM assigned area] |
+| Vasongi Adeline | Team member | IT support: tooling, environments and hosting set-up |
+| Chidinma Duru | Team member | HR content: onboarding task and document requirements |
+| Smith Labisi | Team member | Documentation and test support |
 | Micah Timileyin | Sponsor | Oversight, approvals |
 
 ## 2. Budget
@@ -21,7 +21,7 @@ No cash budget. The project runs on team time and free-tier tools.
 |---|---|
 | Team effort | Unpaid, part-time contribution |
 | Jira, Google Workspace, Google Stitch | Free tier |
-| Hosting | Free tier [TEAM TO CONFIRM provider] |
+| Hosting | Free tier (provider chosen by the Development Lead) |
 | Domain | None |
 
 ## 3. RACI
@@ -49,4 +49,4 @@ R = Responsible, A = Accountable, C = Consulted, I = Informed.
 | Documents and planning sheets | Google Workspace |
 | Prototype | Google Stitch |
 | Source control | GitHub |
-| Team chat | [TEAM TO CONFIRM] |
+| Team chat | Group chat for daily coordination |

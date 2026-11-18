@@ -32,4 +32,4 @@
 
 ## Getting help
 
-Contact your HR administrator [TEAM TO CONFIRM support contact].
+Contact your HR administrator through the support channel your organisation sets up for the portal.

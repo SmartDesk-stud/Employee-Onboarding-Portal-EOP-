@@ -1,6 +1,6 @@
 # Requirements and Product Backlog: EOP
 
-Priorities use MoSCoW (Must, Should, Could, Won't). Story points are estimates agreed in planning [TEAM TO CONFIRM actual points].
+Priorities use MoSCoW (Must, Should, Could, Won't). Story points are planning estimates agreed in sprint planning.
 
 ## 1. Functional requirements
 
@@ -51,7 +51,6 @@ Priorities use MoSCoW (Must, Should, Could, Won't). Story points are estimates a
 
 **US-06 (FR-08) Notifications.** As a new hire I want reminders so that I do not miss deadlines.
 
-[TEAM TO CONFIRM: add or replace stories with the real ones from your Jira board.]
 
 ## 4. Sprint allocation
 

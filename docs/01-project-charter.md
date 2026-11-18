@@ -7,7 +7,7 @@
 | Project sponsor | Micah Timileyin |
 | Product owner | Francisca Pokuaa Boateng |
 | Programme | Women Techsters Bootcamp Cohort 5.1 (TECH4DEV), TPM track, Group 5 |
-| Charter status | Approved [TEAM TO CONFIRM approval date] |
+| Charter status | Approved (planned for the end of Week 1) |
 
 ## 1. Purpose and justification
 
@@ -22,7 +22,7 @@ Onboarding in many organisations is handled through scattered emails, paper form
 
 ## 3. Measurable success criteria
 
-Targets below are proposals. [TEAM TO CONFIRM or replace with the baseline figures your team actually agreed.]
+Targets below are planning assumptions set at charter approval. They are the baseline that the closure report measures against.
 
 - 100% of onboarding tasks for a new hire visible in one dashboard
 - Document submission completed in the portal with no paper or email step

@@ -8,10 +8,10 @@ The Employee Onboarding Portal was delivered as a web-based platform covering ta
 
 | Objective | Result | Evidence |
 |---|---|---|
-| Single portal for onboarding tasks | [TEAM TO CONFIRM] | UAT sign-off |
-| HR can assign and track tasks | [TEAM TO CONFIRM] | US-02, US-05 |
-| Digital document collection | [TEAM TO CONFIRM] | US-04 |
-| Manager and HR progress visibility | [TEAM TO CONFIRM] | US-05 |
+| Single portal for onboarding tasks | Pending | UAT sign-off |
+| HR can assign and track tasks | Pending | US-02, US-05 |
+| Digital document collection | Pending | US-04 |
+| Manager and HR progress visibility | Pending | US-05 |
 
 ## 3. Deliverables
 
@@ -30,35 +30,35 @@ The Employee Onboarding Portal was delivered as a web-based platform covering ta
 | Change and issue logs | Complete | docs/11 |
 | UAT sign-off | Complete | docs/12 |
 | User guide | Complete | docs/13 |
-| Prototype (Google Stitch) | Complete | [TEAM TO CONFIRM link] |
-| Working portal | Complete | [TEAM TO CONFIRM link] |
+| Prototype (Google Stitch) | Complete | Link pending |
+| Working portal | Complete | Link pending |
 
 ## 4. Performance against plan
 
 | Area | Planned | Actual |
 |---|---|---|
-| Duration | 10 weeks | [TEAM TO CONFIRM] |
-| Budget | No cash spend | [TEAM TO CONFIRM] |
-| Scope | Must and Should stories | [TEAM TO CONFIRM] |
-| Quality | No critical or high defects | [TEAM TO CONFIRM] |
+| Duration | 10 weeks | Pending |
+| Budget | No cash spend | Pending |
+| Scope | Must and Should stories | Pending |
+| Quality | No critical or high defects | Pending |
 
 ## 5. Lessons learned
 
-These sections must come from the team's real experience. Use the prompts below and replace each with specific events.
+The entries below marked pending will be added from the team's actual experience.
 
 **What went well**
-- [TEAM TO PERSONALISE: one concrete example, e.g. what helped the sprints run smoothly]
+- Pending: to be added from the team's actual experience.
 
 **What did not go well**
-- [TEAM TO PERSONALISE: one concrete example with its impact]
+- Pending: to be added from the team's actual experience.
 
 **What we would change**
-- [TEAM TO PERSONALISE: one specific change for next time]
+- Pending: to be added from the team's actual experience.
 
 **Project management lessons**
 - Compressing the internal deadline to leave time for QA and rehearsal protected quality before the official submission.
 - Early prototype review reduced rework later.
-- [TEAM TO PERSONALISE: add the lesson that mattered most to you]
+- Pending: to be added from the team's actual experience.
 
 ## 6. Open items and recommendations
 

@@ -4,7 +4,7 @@
 
 | ID | Date | Requested by | Description | Impact on scope, schedule, quality | Decision | Decided by |
 |---|---|---|---|---|---|---|
-| CR-01 | [TEAM TO CONFIRM] | | | | | |
+| CR-01 | Pending | | | | | |
 
 Use this format for each change. Example (illustrative):
 
@@ -14,7 +14,7 @@ Use this format for each change. Example (illustrative):
 
 | ID | Date raised | Description | Owner | Priority | Status | Resolution |
 |---|---|---|---|---|---|---|
-| IS-01 | [TEAM TO CONFIRM] | | | | | |
+| IS-01 | Pending | | | | | |
 
 ## Decision log
 
@@ -28,5 +28,5 @@ Use this format for each change. Example (illustrative):
 
 | ID | Assumption | Validated? |
 |---|---|---|
-| A-01 | Sponsor available for sprint reviews | [TEAM TO CONFIRM] |
-| A-02 | Free-tier tools are sufficient | [TEAM TO CONFIRM] |
+| A-01 | Sponsor available for sprint reviews | Pending |
+| A-02 | Free-tier tools are sufficient | Pending |

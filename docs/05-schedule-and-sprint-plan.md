@@ -1,6 +1,6 @@
 # Project Schedule and Sprint Plan: EOP
 
-Ten weeks, five two-week sprints after a short initiation and design phase. Dates are shown as week numbers; add calendar dates once confirmed. [TEAM TO CONFIRM actual start and end dates.]
+Ten weeks, five two-week sprints after a short initiation and design phase. Dates are shown as week numbers, so the plan holds for any project start date.
 
 | Phase | Weeks | Key tasks | Owner | Output |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ Ten weeks, five two-week sprints after a short initiation and design phase. Date
 ## Sprint ceremonies
 
 - Sprint planning: first day of each sprint
-- Daily stand-up: 15 minutes [TEAM TO CONFIRM time and channel]
+- Daily stand-up: 15 minutes, on the team chat or a short call
 - Sprint review: last day of each sprint, with sponsor and product owner invited
 - Retrospective: after each review
 

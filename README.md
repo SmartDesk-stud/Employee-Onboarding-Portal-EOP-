@@ -45,12 +45,12 @@ Full lifecycle documentation lives in [`docs/`](docs/). Each file is provided in
 
 ## Prototype
 
-Designed in Google Stitch. [Add prototype link here.]
+Designed in Google Stitch. Prototype link to be added.
 
 ## Approach
 
 Scrum, five two-week sprints, Jira for tracking, GitHub for documentation.
 
-## Notes
+## Status of these documents
 
-Items marked `[TEAM TO CONFIRM]` or `[TEAM TO PERSONALISE]` need real project figures, dates or reflections before the repo goes public.
+This was built as a bootcamp project. The planning documents (charter, scope, requirements, schedule, resources, risks, quality and communication plans) use planning assumptions. Sections that record actual results are marked **Pending** until real figures are added: UAT results, status metrics, change and issue entries, closure results and lessons learned.

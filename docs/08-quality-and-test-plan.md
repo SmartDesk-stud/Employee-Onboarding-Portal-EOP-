@@ -51,7 +51,7 @@
 
 ## 6. Test results
 
-Record outcomes in the execution log below. [TEAM TO CONFIRM and fill with real results.]
+Outcomes are recorded in the execution log below. Results are pending until the team adds the actual test run.
 
 | Test case | Date | Tester | Result | Defect ID |
 |---|---|---|---|---|

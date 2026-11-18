@@ -2,7 +2,7 @@
 
 | Communication | Purpose | Audience | Frequency | Channel | Owner |
 |---|---|---|---|---|---|
-| Daily stand-up | Progress, blockers | Team | Daily | [TEAM TO CONFIRM chat or call] | Morenikeji |
+| Daily stand-up | Progress, blockers | Team | Daily | Team chat or short call | Morenikeji |
 | Sprint planning | Agree sprint scope | Team, product owner | Start of sprint | Video call | Morenikeji |
 | Sprint review | Demo completed work | Team, sponsor, product owner | End of sprint | Video call | Francisca |
 | Retrospective | Improve ways of working | Team | End of sprint | Video call | Morenikeji |
